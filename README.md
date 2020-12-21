@@ -13,4 +13,4 @@ The generated JSON data is used to display a web page with status information (W
 Changing of parameters is done remotely by feeding the Raspberry Pi commands through the COM2TCP functionality of the
 python script. It basically allows remote access to serial (USB) ports of the Raspberry.
 
-More info will be available (in the future) here: http://www.-het-bar.net
+More info will be available (in the future) here: http://www.het-bar.net
